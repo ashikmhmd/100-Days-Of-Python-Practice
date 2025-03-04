@@ -29,10 +29,18 @@ print(3.1416)
 print(type("any variable"))        # Just put things in type parantheses
 # See Application of type-casting in Challenges file
 
-#Substraction, Division.
+#Substraction, Division
 sub=5-4
 div=5/4
 print(sub,div)
-# Running to the power
+# to the power
 print(2**5)
+
+# Division but doesn't want floats
+print(5//2)         # This is called Floor Division output will be 2 instead of 2.5.
+# Now if we want specific number of float values
+print(round(2.6666, 3))     # By using Round function we can do this, it prints exactly 3 digits.
+
+
+
 
