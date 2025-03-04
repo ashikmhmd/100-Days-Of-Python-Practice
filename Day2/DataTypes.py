@@ -1,11 +1,12 @@
 # Data Types
 
-# Integer
-
+# Integer, Want to print integers?
+print(123)
 # Just Write like Decimal numbers
 num1 = 10
 num2 = 20
 print(num1 + num2)
+
 
 # Strings
 String = "Ashik"     # This is a String because this is inside double quotation.
@@ -20,4 +21,18 @@ print(SubscriptVar1)
 # for writing large integers we can use underscore like
 print(123_345_45_234_111)   # Computer doesn't read underscores
 
-#
+#Float
+print(3.1416)
+
+
+# Want to see what is output type?
+print(type("any variable"))        # Just put things in type parantheses
+# See Application of type-casting in Challenges file
+
+#Substraction, Division.
+sub=5-4
+div=5/4
+print(sub,div)
+# Running to the power
+print(2**5)
+
