@@ -41,6 +41,5 @@ print(5//2)         # This is called Floor Division output will be 2 instead of 
 # Now if we want specific number of float values
 print(round(2.6666, 3))     # By using Round function we can do this, it prints exactly 3 digits.
 
-
-
+# Update variable
 
