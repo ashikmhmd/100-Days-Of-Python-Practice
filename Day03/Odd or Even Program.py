@@ -6,4 +6,4 @@ if Div == 0:
     print(" This is even")
 
 else:
-    print(" This is Odd")
+    print(" This is Odd!")
