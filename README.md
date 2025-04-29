@@ -3,3 +3,5 @@
 I am doing this practice with [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
  by taking her [course](https://www.udemy.com/course/100-days-of-code/?couponCode=ST10MT30325G1) in Udemy. \
  Thank you for the opportunity!
+# Why I am not updating repo???
+### I am done with it. I am closing this project of mine and obviously practicing with that course. Cause of this course construction. I am learning python for my computational chemistry studies. I was seeking course that fundamentally, purposely build for chemsts. Guess what, I found! That's why I am dumping it! Bye! I learned some basics, but it's time to learn for chemistry!
